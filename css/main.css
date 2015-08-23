@@ -1,9 +1,14 @@
 a {
 
   text-decoration: none;
+  color: #6ab47b;
 }
 
+header {
+  color: #6ab47b;
+  background: #599a68;
 
+}
 #wrapper{
   max-width: 940px;
   margin: 0 auto;
