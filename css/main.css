@@ -7,6 +7,10 @@ a {
 #wrapper{
   max-width: 940px;
   margin: 0 auto;
-  background: green;
+
   padding: 0 5%;
+}
+#logo{
+  text-align: center;
+  margin: 0;
 }
