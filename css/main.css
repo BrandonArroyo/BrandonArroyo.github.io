@@ -12,6 +12,9 @@ header {
 h1, h2 {
   color: #fff;
 }
+h1{
+  font-family: 'Changa One' ,  sans-serif;
+}
 nav{
     background: #599a68;
 
@@ -22,6 +25,10 @@ color: #fff;
 }
 nav a .selected, a:hover {
   color: #32673f;
+}
+body{
+  background-color:  #fff;
+  color: #999;
 }
 #wrapper{
   max-width: 940px;
