@@ -9,12 +9,13 @@ header {
   border-color: #599a68;
 
 }
-h1, h2 {
-  color: #fff;
-}
 h1{
   font-family: 'Changa One' ,  sans-serif;
 }
+h1, h2 {
+  color: #fff;
+}
+
 nav{
     background: #599a68;
 
